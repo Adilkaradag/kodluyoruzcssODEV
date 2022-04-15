@@ -1,0 +1,21 @@
+*{
+margin: 0px;
+padding: 0px;
+text-align: center;
+
+
+}
+.container{
+    width: 1508px;
+    margin: 2px auto 0px  ;
+
+
+
+
+
+
+}
+.listeleme{
+list-style-type: none;
+padding-left: 0;
+}
